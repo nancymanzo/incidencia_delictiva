@@ -1,0 +1,134 @@
+@font-face { 
+   font-family: Nutmeg-Light;
+   src: url('Nutmeg-Light.ttf') format("truetype");}
+
+
+@font-face { 
+   font-family: Nutmeg-Light;
+   src: url('Nutmeg-Light.ttf') format("truetype");}
+
+
+
+   
+   /* Whole document: */
+body{
+  font-family: Nutmeg-Light;
+}
+
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-family: Nutmeg-Light;
+}
+
+
+/* active selected tab in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu{
+color: #ffffff;
+font-family: Nutmeg-Light;}
+
+/* other links in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu{
+font-family: Nutmeg-Light;}
+
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+font-family: Nutmeg-Light;}
+
+
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+font-family: Nutmeg-Light;}
+
+/* body */
+.content-wrapper, .right-side{
+font-family: Nutmeg-Light;}
+
+.shiny-input-container, h5{
+font-family: Nutmeg-Light;
+}
+
+
+.navbar1 .navbar{  
+font-family: Nutmeg-Light SemiBold;
+}
+
+.navbar1 .navbar-default .navbar-brand{
+font-family: Nutmeg-Light;
+}
+
+.navbar-default .navbar-nav > li > a {
+font-family: Nutmeg-Light;
+}
+
+.navbar1 .navbar-nav li a:hover, .navbar1 .navbar-nav > .active > a {
+font-family: Nutmeg-Light;
+}
+
+
+
+
+body {
+font-family: Nutmeg-Light;
+}
+
+p{
+font-family: Nutmeg-Light;
+}
+
+
+.value-box .value {
+color: white;
+size: 12;
+font-family: Nutmeg-Light;
+
+}
+
+
+
+
+
+                                .skin-blue .main-header .logo {
+                                background-color: #6b6391;
+                                }
+                                
+                                /* logo when hovered */
+                                .skin-blue .main-header .logo:hover {
+                                background-color: #6b6391;
+                                }
+                                
+                                /* navbar (rest of the header) */
+                                .skin-blue .main-header .navbar {
+                                background-color: #6b6391;
+                                }
+                                
+                                /* main sidebar */
+                                .skin-blue .main-sidebar {
+                                background-color: #6b6391;
+                                }
+                                
+                                /* active selected tab in the sidebarmenu */
+                                .skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+                                background-color: #817b9c;
+                                }
+                                
+                                /* other links in the sidebarmenu */
+                                .skin-blue .main-sidebar .sidebar .sidebar-menu a{
+                                background-color: #817b9c;
+                                color: #ffffff;
+                                }
+                                
+                                /* other links in the sidebarmenu when hovered */
+                                .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+                                background-color: #6b6391;
+                                }
+                                /* toggle button when hovered  */
+                                .skin-blue .main-header .navbar .sidebar-toggle:hover{
+                                background-color: #6b6391;
+                                }
+
+                                /* body */
+                                .content-wrapper, .right-side {
+                                background-color: #ffffff;
+                                }
+
+
+        

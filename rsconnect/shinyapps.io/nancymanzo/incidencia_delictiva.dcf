@@ -1,0 +1,12 @@
+name: incidencia_delictiva
+title: incidencia_delictiva
+username: nancymanzo
+account: nancymanzo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11508862
+bundleId: 8553692
+url: https://nancymanzo.shinyapps.io/incidencia_delictiva/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
